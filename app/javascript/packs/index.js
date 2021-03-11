@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Header from './components/LandingPage/Header';
+import Header from '../components/LandingPage/Header';
 
 const App = () => (
   <Header />
